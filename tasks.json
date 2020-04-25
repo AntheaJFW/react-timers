@@ -1,1 +1,1 @@
-[{"task":"New timer 1","isStarted":false,"seconds":30,"comment":"New comment\n - More comments\n - More more comments"},{"task":"New timer 2","isStarted":false,"seconds":13,"comment":"Simultaneously running"}]
+[{"task":"another new timer","isStarted":false,"seconds":0,"comment":"New comment\n - New new comment"},{"task":"hello new timer","isStarted":false,"seconds":0}]
